@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="../Glav_noowosty_01.html">Glav_noowosty_01</a></td></tr>
+<tr><td><a href="Nowosty_Hardware.html">Nowosty_Hardware</a></td></tr>
+<tr><td><a href="Nowosty_Hardware.html">Nowowsty_software</a></td></tr>
+<tr><td><a href="Actual_temu.html">Actual_temu</a></td></tr>
+<tr><td><a href="IT_finans.html">IT_finans</a></td></tr>
+<tr><td><a href="Offsynka.html">Offsynka</a></td></tr>
+<tr><td><a href="Analitika.html">Analitika</a></td></tr>
+<tr><td><a href="Analitika_vistavka.html">Analitika_vistavka</a></td></tr>
+<tr><td><a href="Analitika_Reportaj.html">Analitika_Reportaj</a></td></tr>
+<tr><td><a href="Analitika_Interwy.html">Analitika_Interwy</a></td></tr>
+<tr><td><a href="Analitika_sobitiya_Faktu.html">Analitika_sobitiya_Faktu</a></td></tr>
+<tr><td><a href="Analitika_Itog.html">Analitika_Itog</a></td></tr>
+<tr><td><a href="Analitika_Vibor_komp.html">Analitika_Vibor_komp</a></td></tr>
+<tr><td><a href="Analitika_drugoe.html">Analitika_drugoe</a></td></tr>
+<tr><td><a href="Videokaru.html">Videokaru_</a></td></tr>
+<tr><td><a href="Videokaru_Obwaya_info.html">Videokaru_Obwaya_info</a></td></tr>
+<tr><td><a href="Masterskaya.html">Videokaru_sravn_testing</a></td></tr>
+<tr><td><a href="Videokaru_AMD.html">Videokaru_AMD</a></td></tr>
+<tr><td><a href="Videokaru__NVIDEA.html">Videokaru__NVIDEA</a></td></tr>
+<tr><td><a href="Zvyk-acustick.html">Zvyk-acustick</a></td></tr>
+<tr><td><a href="Game.html">Game</a></td></tr>
+<tr><td><a href="Korpys_BP_.html">Korpys_BP_</a></td></tr>
+<tr><td><a href="Korpys_BP_block_pitanya.html">Korpys_BP_Kyler</a></td></tr>
+<tr><td><a href="Korpys_BP_Vod_ohlajdenie.html">Korpys_BP_Vod_ohlajdenie</a></td></tr>
+<tr><td><a href="Videokaru_Obwaya_info.html">Korpys_BP_Obwaya_inf</a></td></tr>
+<tr><td><a href="Korpys_BP_Korpys.html">Korpys_BP_Korpys</a></td></tr>
+<tr><td><a href="Korpys_BP_Modding.html">Korpys_BP_Modding</a></td></tr>
+<tr><td><a href="Korpys_BP_block_pitanya.html">Korpys_BP_block_pitanya</a></td></tr>
+<tr><td><a href="Masterskaya.html">Masterskaya</a></td></tr>
+<tr><td><a href="Mater_plata.html">Mater_plata</a></td></tr>
+<tr><td><a href="Monitor_project.html">Monitor_project</a></td></tr>
+<tr><td><a href="Noytbook.html">Noytbook</a></td></tr>
+</tbody></table>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://3dnews.ru/" />
+<title>Nowowsty_software</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Nowowsty_software</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/software-news</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>css=td.section-title.compact</td>
+	<td>Новости Software</td>
+</tr>
+<tr>
+	<td>assertTable</td>
+	<td>css=#section-header &gt; table.0.0</td>
+	<td>Новости Software</td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Новости Software, страница 1</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>css=span.left.strong</td>
+	<td>Быстрый переход</td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>link=← В прошлое</td>
+	<td>← В прошлое</td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>css=i.icon-rss</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>xpath=(//a[contains(text(),'←&nbsp;В прошлое')])[2]</td>
+	<td>← В прошлое</td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

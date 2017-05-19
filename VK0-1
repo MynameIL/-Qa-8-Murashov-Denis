@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="../Vk/Levoe-menu.html">Levoe-menu</a></td></tr>
+<tr><td><a href="../Vk/Moya_str.html">Moya_str</a></td></tr>
+<tr><td><a href="../Vk/Novosty.html">Novosty</a></td></tr>
+<tr><td><a href="../Vk/soobweniya.html">Soobweniya</a></td></tr>
+<tr><td><a href="../Vk/druzya.html">Druzya</a></td></tr>
+<tr><td><a href="../Vk/Group.html">Group</a></td></tr>
+<tr><td><a href="../Vk/photo.html">Photo</a></td></tr>
+<tr><td><a href="../Vk/Music.html">Music</a></td></tr>
+<tr><td><a href="../Vk/video.html">video</a></td></tr>
+<tr><td><a href="../Vk/igru.html">Igru</a></td></tr>
+<tr><td><a href="../Vk/Zakladki.html">Zakladki</a></td></tr>
+<tr><td><a href="../Vk/Zakladki.html">Verhmenu</a></td></tr>
+<tr><td><a href="../Vk/blog.html">blog</a></td></tr>
+<tr><td><a href="../Vk/razrabotka.html">Razraborka</a></td></tr>
+<tr><td><a href="../Vk/Reklama.html">Reklama</a></td></tr>
+<tr><td><a href="../Vk/ewe.html">ewe</a></td></tr>
+</tbody></table>
+</body>
+</html>
